@@ -2,16 +2,18 @@
   overflow-x: auto;
   border-radius: 10px;
   border: black;
-  position: absolute;
-  top: 20%;
+  
+  
 }
 
 
 table {
   max-width: 800px;
   border-collapse: collapse;
- width: 100%;
+  margin: auto;
   border: 1px solid black;
+  width: 100%;
+  padding: 10px;
   
 }
 
@@ -22,6 +24,40 @@ th, td {
   
   
 }
+
+
+
+#my-button {
+  color: aliceblue;
+  background-color: blueviolet;
+  border-radius: 10px;
+}
+
+.this-button {
+  color: aliceblue;
+  background-color: blueviolet;
+  border-radius: 10px;
+
+}
+.table-row {
+  background-color: green;
+  color: azure;
+}
+
+
+
+.header{
+  
+  
+  padding: 20px;
+  border-radius: 5px;
+  
+
+  text-align: center;
+}
+
+
+  
 
 
 
