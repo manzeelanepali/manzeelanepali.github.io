@@ -10,7 +10,7 @@
 table {
   max-width: 800px;
   border-collapse: collapse;
-  margin: auto;
+ width: 100%;
   border: 1px solid black;
   
 }
