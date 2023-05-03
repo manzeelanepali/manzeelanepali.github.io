@@ -2,8 +2,8 @@
   overflow-x: auto;
   border-radius: 10px;
   border: black;
-  
-  
+  position: absolute;
+  top: 20%;
 }
 
 
